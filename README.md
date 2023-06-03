@@ -1,0 +1,2 @@
+# truemacs
+My emacs configuration
