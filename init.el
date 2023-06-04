@@ -64,7 +64,6 @@
 		eshell-mode-hook))
   (add-hook mode (lambda () (display-line-numbers-mode 0))))
 
-
 ;; Possibly switch from ivy/swiper to helm later
 (use-package swiper)
 
